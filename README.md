@@ -9,6 +9,10 @@ SO THAT I can reliably retrieve them for later use
 
 
 Acceptance Criteria
+
+
+
+
 GIVEN a text editor web application
 WHEN I open my application in my editor
 THEN I should see a client server folder structure
