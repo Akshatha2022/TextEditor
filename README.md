@@ -10,9 +10,6 @@ SO THAT I can reliably retrieve them for later use
 
 Acceptance Criteria
 
-
-
-
 GIVEN a text editor web application
 WHEN I open my application in my editor
 THEN I should see a client server folder structure
@@ -38,6 +35,12 @@ WHEN I register a service worker
 THEN I should have my static assets pre cached upon loading along with subsequent pages and static assets
 WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
+
+
+GitHUb Link: https://github.com/Akshatha2022/TextEditor
+Heroku Deployed Link: https://dashboard.heroku.com/apps/texteditor2022
+
+
 
 
 
